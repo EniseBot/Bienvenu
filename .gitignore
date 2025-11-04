@@ -1,0 +1,21 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fichiers temporaires
+*.log
+*.tmp
+*.temp
+
+# Optionnel : Images de test (décommentez si nécessaire)
+# assets/*.jpg
+# assets/*.png
+# !assets/favicon.png
